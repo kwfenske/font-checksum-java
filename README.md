@@ -1,7 +1,7 @@
 
 ### Font Checksum (Java)
 
-by: Keith Fenske, http://kwfenske.github.io/
+by: Keith Fenske, https://kwfenske.github.io/
 
 FontChecksum is a Java 1.4 application to verify the internal checksums of
 OpenType (OTF) and TrueType (TTC, TTF) font files. Sometimes when you download
@@ -16,7 +16,7 @@ information to test which of the files is more correct. Note that freeware and
 shareware fonts produced with older font tools often have numerous checksum
 errors.
 
-Download the ZIP file here: http://kwfenske.github.io/font-checksum-java.zip
+Download the ZIP file here: https://kwfenske.github.io/font-checksum-java.zip
 
 Released under the terms and conditions of the GNU General Public License,
 version 3 or later (GPLv3+).
