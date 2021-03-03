@@ -226,7 +226,7 @@ public class FontChecksum2
       word = args[i].toLowerCase(); // easier to process if consistent case
       if (word.length() == 0)
       {
-        /* Ignore null parameters, which are more common that you might think,
+        /* Ignore empty parameters, which are more common than you might think,
         when programs are being run from inside scripts (command files). */
       }
 
